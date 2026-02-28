@@ -19,7 +19,7 @@ Bienvenido al espacio oficial de EUCLID. Aquí desarrollamos ARMON-IA, una plata
 
 > Haz click en el enlace de abajo para ir a la Wiki de la Organizacion
 
-[Wiki y documentacion del proyecto](./docs/)
+[Wiki y documentacion del proyecto](../docs/)
 
 
 # 🤝 Estándares de Trabajo (SOP)
