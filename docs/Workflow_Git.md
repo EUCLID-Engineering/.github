@@ -100,6 +100,7 @@ git pull origin main
 2. Borra tu rama local:
 ```
 git branch -d feature/SCRUM-XX-descripcion
+git push origin --delete feature/SCRUM-XX-descripcion
 ```
 
 
