@@ -1,4 +1,5 @@
 > Para mayor información, consulta la documentación oficial de Flutter: `https://docs.flutter.dev/install/manual`
+
 > Para la instalación de Android Studio y sus SDK Tools consulta: `https://docs.flutter.dev/platform-integration/android/setup`
 
 # 1. Descargar e instalar Flutter SDK
