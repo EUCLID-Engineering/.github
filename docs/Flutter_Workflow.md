@@ -53,7 +53,7 @@ flutter analyze
 
 2. Formatear:
 ```
-flutter format .
+dart format .
 ```
 > Esto ordena el código automáticamente según los estándares de Google.
 
